@@ -1,1 +1,1 @@
-# NetOrtalamaHesaplam
+# Net-Ortalama-Hesaplam
